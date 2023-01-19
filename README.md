@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning Node JS and TypeScript
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IagoAndrade16">
-  <img height="180em" src="">
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IagoAndrade16">
+  <img height="180em" src=""> -->
 </div>
 
 <div style="display: inline_block"><br>
@@ -27,5 +27,5 @@
   
 </div>
 
-![Snake animation](https://github.com/IagoAndrade16/IagoAndrade16)
+<!-- ![Snake animation](https://github.com/IagoAndrade16) -->
  
